@@ -1,5 +1,8 @@
 # Welcome to your Expo app 👋
 
+<img width="403" height="819" alt="iPhone-13-PRO-localhost (2)" src="https://github.com/user-attachments/assets/6e7bfc6f-3443-4a26-8c2c-d992405552da" />
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
